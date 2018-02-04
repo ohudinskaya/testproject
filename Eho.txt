@@ -1,2 +1,3 @@
 First change in file.
 Second change in file.
+Third change. Is it expected?
